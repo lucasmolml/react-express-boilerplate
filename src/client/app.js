@@ -1,5 +1,6 @@
 import React from 'react'
-import './app.css';
+import PropTypes from 'prop-types'
+import './app.scss';
 import axios from 'axios';
 
 // components
