@@ -18,7 +18,8 @@ const View = () => {
 
 
   return (
-    <div className="test">
+    <div>
+        <h1>React boilerplate</h1>
         <Button />
     </div>  
   )
